@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @carlosdugarte a Venezuelan guy living in Argentina
 - 👀 I’m interested in video games! Most of the time working out at the Gym
-- 🌱 I’m currently learning React JS, and Im looking foward to study Node JS
+- 🌱 I’m currently learning Node JS
 - 💞️ I’m looking to collaborate on web site developments 
 - 📫 Please contact me cdlogix@gmail.com
 
